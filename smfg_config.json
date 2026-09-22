@@ -1,0 +1,27 @@
+{
+  "K": 5,
+  "N_values": [
+    20,
+    100,
+    500,
+    1000
+  ],
+  "T": 10000,
+  "noise_std": 0.1,
+  "problem_seed": 7,
+  "run_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "theory_consistent_sign": true,
+  "eta0_annealed": 0.5,
+  "kl_payoff_sign": -1.0,
+  "exploitability_mode": "finite_mc",
+  "exploitability_mc_samples": 128,
+  "exploitability_eval_every": 10,
+  "ci_z": 1.96,
+  "smoothing_window": 25
+}
