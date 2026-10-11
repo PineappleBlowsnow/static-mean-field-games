@@ -1,4 +1,6 @@
-# Static Mean-Field Games: Annealed TRPA and Bilevel Intervention
+# Learning and Intervention in Static Mean-Field Games
+
+**MVA course — Interactions**
 
 A collaborative MVA course research project by **Jin Ying and Zhao Yutai**. The [report](Report_SMFG.pdf), titled *Dynamic Principal Intervention in Static Mean-Field Games: From Annealed TRPA to Bilevel Stackelberg Learning*, studies population learning and intervention in synthetic static mean-field games.
 
@@ -38,3 +40,6 @@ The code contains different exploitability estimators and iterate conventions. I
 All included Python files passed syntax parsing on 22 September 2026. Numerical experiments were not rerun. Dependencies were inferred from imports and are not version-locked. The package excludes third-party papers, the internship brief, private tool metadata, LaTeX build products, archive duplicates and the 26 MB trajectory CSV. Synthetic environments require no bundled private dataset.
 
 The original project did not include an explicit software license. This package preserves joint authorship and does not assert a new license. Author email addresses were removed from the portfolio copy of the report; the source report is unchanged.
+
+
+[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
