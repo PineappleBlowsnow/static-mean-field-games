@@ -42,4 +42,4 @@ All included Python files passed syntax parsing on 22 September 2026. Numerical 
 The original project did not include an explicit software license. This package preserves joint authorship and does not assert a new license. Author email addresses were removed from the portfolio copy of the report; the source report is unchanged.
 
 
-[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
+[Back to Ying Jin's project directory](https://github.com/PineappleBlowsnow#mva-projects)
